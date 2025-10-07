@@ -1,36 +1,118 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 Website for Lic. María Cecilia Inzaugarat
 
-## Getting Started
+**Available languages:**  
+🇺🇸 [English version](#-english-version) | 🇦🇷 [Versión en Español](#-versión-en-español)
 
-First, run the development server:
+---
 
-```bash
+## 🇺🇸 English Version
+* A professional, scalable website built with Next.js, optimized for SEO, and integrated with Mercado Pago.
+This project focuses on performance, accessibility, and maintainability to ensure a seamless user experience.
+
+🚀 Tech Stack
+
+Framework: Next.js (React)
+
+Styling: Tailwind CSS
+
+Payments: Mercado Pago SDK
+
+Deployment: Vercel
+
+SEO Optimization: Next SEO
+
+Version Control: GitHub
+
+🧩 Features
+
+Fully responsive and accessible design
+
+SEO best practices implemented
+
+Secure and scalable payment integration
+
+Modular architecture for future growth
+
+🛠️ Getting Started
+
+Install dependencies:
+
+npm install
+
+
+Run the development server:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Then open http://localhost:3000
+in your browser.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🧪 Development Notes
 
-## Learn More
+Edit the main page at app/page.tsx.
+Changes are reflected in real time.
 
-To learn more about Next.js, take a look at the following resources:
+📦 Deployment
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Deploy easily with Vercel
+, the creators of Next.js.
+For more information, see the Next.js deployment documentation
+.*
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🇦🇷 Versión en Español
+* Sitio profesional y escalable desarrollado con Next.js, optimizado para SEO e integrado con Mercado Pago.
+El proyecto prioriza el rendimiento, la accesibilidad y la mantenibilidad para ofrecer una experiencia fluida y moderna.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🚀 Stack Tecnológico
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Framework: Next.js (React)
+
+Estilos: Tailwind CSS
+
+Pagos: SDK de Mercado Pago
+
+Despliegue: Vercel
+
+Optimización SEO: Next SEO
+
+Control de versiones: GitHub
+
+🧩 Características
+
+Diseño totalmente responsive y accesible
+
+Buenas prácticas SEO implementadas
+
+Integración de pagos segura y escalable
+
+Arquitectura modular preparada para crecimiento futuro
+
+🛠️ Cómo empezar
+
+Instalá las dependencias:
+
+npm install
+
+
+Ejecutá el servidor de desarrollo:
+
+npm run dev
+
+
+Luego abrí http://localhost:3000
+en tu navegador.
+
+🧪 Notas de desarrollo
+
+Editá la página principal en app/page.tsx.
+Los cambios se actualizan automáticamente.
+
+📦 Despliegue
+
+Podés desplegar fácilmente el proyecto con Vercel
+, los creadores de Next.js.
+Para más información, consultá la documentación de despliegue de Next.js
+.*
