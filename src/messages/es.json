@@ -1,0 +1,153 @@
+{
+  "common": {
+    "siteName": "Lic. María Cecilia Inzaugarat",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "close": "Cerrar",
+    "save": "Guardar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "search": "Buscar",
+    "backToHome": "Volver al inicio"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca",
+    "services": "Servicios",
+    "shop": "Tienda",
+    "cart": "Carrito",
+    "contact": "Contacto",
+    "language": "Idioma",
+    "theme": "Tema"
+  },
+  "home": {
+    "title": "Bienvenidos",
+    "subtitle": "Acompañando familias en el camino del desarrollo infantil",
+    "description": "Servicios profesionales especializados en el desarrollo y bienestar de niños y familias.",
+    "cta": "Conocer más",
+    "ctaShop": "Ver servicios"
+  },
+  "about": {
+    "title": "Acerca de mí",
+    "subtitle": "Profesional dedicada al desarrollo infantil y el bienestar familiar",
+    "description": "Con años de experiencia en el acompañamiento de familias, ofrezco servicios personalizados para cada etapa del desarrollo."
+  },
+  "services": {
+    "title": "Servicios",
+    "subtitle": "Acompañamiento profesional para cada etapa",
+    "viewDetails": "Ver detalles",
+    "addToCart": "Agregar al carrito"
+  },
+  "shop": {
+    "title": "Tienda",
+    "subtitle": "Cursos, talleres y consultas disponibles",
+    "filter": "Filtrar",
+    "sortBy": "Ordenar por",
+    "price": "Precio",
+    "addToCart": "Agregar al carrito",
+    "outOfStock": "Agotado",
+    "viewProduct": "Ver producto"
+  },
+  "cart": {
+    "title": "Carrito de compras",
+    "empty": "Tu carrito está vacío",
+    "continueShopping": "Continuar comprando",
+    "item": "Artículo",
+    "quantity": "Cantidad",
+    "price": "Precio",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "tax": "Impuestos",
+    "remove": "Eliminar",
+    "update": "Actualizar",
+    "checkout": "Proceder al pago",
+    "discount": "Descuento",
+    "couponCode": "Código de cupón",
+    "applyCoupon": "Aplicar cupón"
+  },
+  "checkout": {
+    "title": "Finalizar compra",
+    "personalInfo": "Información personal",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "billingAddress": "Dirección de facturación",
+    "address": "Dirección",
+    "city": "Ciudad",
+    "state": "Provincia/Estado",
+    "zipCode": "Código postal",
+    "country": "País",
+    "paymentMethod": "Método de pago",
+    "orderSummary": "Resumen del pedido",
+    "placeOrder": "Realizar pedido",
+    "processing": "Procesando...",
+    "termsAndConditions": "Acepto los términos y condiciones",
+    "privacyPolicy": "Política de privacidad"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¿Tenés alguna consulta? Escribime",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "send": "Enviar mensaje",
+    "sendingMessage": "Enviando...",
+    "messageSent": "Mensaje enviado correctamente",
+    "messageError": "Error al enviar el mensaje. Por favor, intentá nuevamente."
+  },
+  "footer": {
+    "description": "Acompañando familias en el desarrollo infantil con profesionalismo y calidez.",
+    "quickLinks": "Enlaces rápidos",
+    "followUs": "Seguinos",
+    "copyright": "© {year} Lic. María Cecilia Inzaugarat. Todos los derechos reservados.",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  },
+  "theme": {
+    "light": "Modo claro",
+    "dark": "Modo oscuro",
+    "system": "Sistema"
+  },
+  "language": {
+    "es": "Español",
+    "en": "English"
+  },
+  "meta": {
+    "home": {
+      "title": "Inicio | Lic. María Cecilia Inzaugarat",
+      "description": "Servicios profesionales especializados en el desarrollo y bienestar de niños y familias. Acompañamiento personalizado en cada etapa."
+    },
+    "about": {
+      "title": "Acerca | Lic. María Cecilia Inzaugarat",
+      "description": "Conocé más sobre mi trayectoria profesional y mi enfoque en el desarrollo infantil y el bienestar familiar."
+    },
+    "services": {
+      "title": "Servicios | Lic. María Cecilia Inzaugarat",
+      "description": "Cursos, talleres y consultas personalizadas para acompañar el desarrollo de tus hijos."
+    },
+    "shop": {
+      "title": "Tienda | Lic. María Cecilia Inzaugarat",
+      "description": "Explorá nuestros cursos, talleres y servicios de consulta disponibles."
+    },
+    "contact": {
+      "title": "Contacto | Lic. María Cecilia Inzaugarat",
+      "description": "Ponete en contacto para consultas o más información sobre nuestros servicios."
+    }
+  },
+  "errors": {
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que estás buscando no existe.",
+    "serverError": "Error del servidor",
+    "serverErrorDescription": "Ocurrió un error inesperado. Por favor, intentá nuevamente.",
+    "sessionExpired": "Tu sesión ha expirado",
+    "invalidInput": "Entrada inválida",
+    "requiredField": "Este campo es requerido",
+    "invalidEmail": "Correo electrónico inválido",
+    "paymentFailed": "El pago falló. Por favor, intentá nuevamente."
+  }
+}

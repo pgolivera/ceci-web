@@ -1,0 +1,153 @@
+{
+  "common": {
+    "siteName": "Lic. María Cecilia Inzaugarat",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "backToHome": "Back to home"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "shop": "Shop",
+    "cart": "Cart",
+    "contact": "Contact",
+    "language": "Language",
+    "theme": "Theme"
+  },
+  "home": {
+    "title": "Welcome",
+    "subtitle": "Supporting families on their child development journey",
+    "description": "Professional services specialized in child development and family well-being.",
+    "cta": "Learn more",
+    "ctaShop": "View services"
+  },
+  "about": {
+    "title": "About me",
+    "subtitle": "Professional dedicated to child development and family well-being",
+    "description": "With years of experience supporting families, I offer personalized services for each developmental stage."
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Professional support for every stage",
+    "viewDetails": "View details",
+    "addToCart": "Add to cart"
+  },
+  "shop": {
+    "title": "Shop",
+    "subtitle": "Courses, workshops, and consultations available",
+    "filter": "Filter",
+    "sortBy": "Sort by",
+    "price": "Price",
+    "addToCart": "Add to cart",
+    "outOfStock": "Out of stock",
+    "viewProduct": "View product"
+  },
+  "cart": {
+    "title": "Shopping cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue shopping",
+    "item": "Item",
+    "quantity": "Quantity",
+    "price": "Price",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax",
+    "remove": "Remove",
+    "update": "Update",
+    "checkout": "Proceed to checkout",
+    "discount": "Discount",
+    "couponCode": "Coupon code",
+    "applyCoupon": "Apply coupon"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "personalInfo": "Personal information",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "phone": "Phone",
+    "billingAddress": "Billing address",
+    "address": "Address",
+    "city": "City",
+    "state": "State/Province",
+    "zipCode": "Zip code",
+    "country": "Country",
+    "paymentMethod": "Payment method",
+    "orderSummary": "Order summary",
+    "placeOrder": "Place order",
+    "processing": "Processing...",
+    "termsAndConditions": "I accept the terms and conditions",
+    "privacyPolicy": "Privacy policy"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Have any questions? Write to me",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send message",
+    "sendingMessage": "Sending...",
+    "messageSent": "Message sent successfully",
+    "messageError": "Error sending message. Please try again."
+  },
+  "footer": {
+    "description": "Supporting families in child development with professionalism and warmth.",
+    "quickLinks": "Quick links",
+    "followUs": "Follow us",
+    "copyright": "© {year} Lic. María Cecilia Inzaugarat. All rights reserved.",
+    "privacyPolicy": "Privacy policy",
+    "termsOfService": "Terms of service"
+  },
+  "theme": {
+    "light": "Light mode",
+    "dark": "Dark mode",
+    "system": "System"
+  },
+  "language": {
+    "es": "Español",
+    "en": "English"
+  },
+  "meta": {
+    "home": {
+      "title": "Home | Lic. María Cecilia Inzaugarat",
+      "description": "Professional services specialized in child development and family well-being. Personalized support at every stage."
+    },
+    "about": {
+      "title": "About | Lic. María Cecilia Inzaugarat",
+      "description": "Learn more about my professional background and my approach to child development and family well-being."
+    },
+    "services": {
+      "title": "Services | Lic. María Cecilia Inzaugarat",
+      "description": "Courses, workshops, and personalized consultations to support your children's development."
+    },
+    "shop": {
+      "title": "Shop | Lic. María Cecilia Inzaugarat",
+      "description": "Explore our available courses, workshops, and consultation services."
+    },
+    "contact": {
+      "title": "Contact | Lic. María Cecilia Inzaugarat",
+      "description": "Get in touch for inquiries or more information about our services."
+    }
+  },
+  "errors": {
+    "notFound": "Page not found",
+    "notFoundDescription": "The page you're looking for doesn't exist.",
+    "serverError": "Server error",
+    "serverErrorDescription": "An unexpected error occurred. Please try again.",
+    "sessionExpired": "Your session has expired",
+    "invalidInput": "Invalid input",
+    "requiredField": "This field is required",
+    "invalidEmail": "Invalid email",
+    "paymentFailed": "Payment failed. Please try again."
+  }
+}
